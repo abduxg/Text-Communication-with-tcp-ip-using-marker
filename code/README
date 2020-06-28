@@ -1,1 +1,8 @@
-
+Compile (on linux with mono):
+  
+  mcs -o Client Client.cs
+  mcs -o Server Server.cs
+  
+Run:
+  ./Server (Firstly)
+  ./Client (Secondly)
