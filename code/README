@@ -6,3 +6,6 @@ Compile (on linux with mono):
 Run:
   ./Server (Firstly)
   ./Client (Secondly)
+
+
+You can also run on windows.
