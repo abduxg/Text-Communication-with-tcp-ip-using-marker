@@ -1,11 +1,10 @@
-Compile (on linux with mono):
-  
-  mcs -o Client Client.cs
-  mcs -o Server Server.cs
-  
-Run:
-  ./Server (Firstly)
-  ./Client (Secondly)
+For linux:
 
+$make
+$cd out
 
-You can also run on windows.
+$mono Server
+
+$mono Client
+
+For Windows you can use Visual Studio
